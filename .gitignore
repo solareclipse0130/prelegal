@@ -88,6 +88,11 @@ db.sqlite3-journal
 # Node.js / Next.js / Frontend
 # ---------------------------------------------------------------------------
 
+# Re-include frontend/lib/ — the unanchored `lib/` rule above (Python packaging)
+# otherwise swallows the Next.js conventional source directory.
+!frontend/lib/
+!frontend/lib/**
+
 # Dependencies
 node_modules/
 .pnp

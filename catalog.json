@@ -1,0 +1,78 @@
+{
+  "source": "https://github.com/CommonPaper",
+  "license": "CC BY 4.0",
+  "templates": [
+    {
+      "name": "AI Addendum",
+      "description": "Common Paper standard AI Addendum — terms that supplement an existing agreement to govern the provision and use of AI services.",
+      "filename": "AI-Addendum.md",
+      "source_repo": "https://github.com/CommonPaper/AI-Addendum"
+    },
+    {
+      "name": "Business Associate Agreement (BAA)",
+      "description": "Common Paper standard Business Associate Agreement — HIPAA-aligned terms between a covered entity and a business associate that safeguard protected health information.",
+      "filename": "BAA.md",
+      "source_repo": "https://github.com/CommonPaper/BAA"
+    },
+    {
+      "name": "Cloud Service Agreement (CSA)",
+      "description": "Common Paper standard Cloud Service Agreement — terms governing the provision and use of a cloud-based software service.",
+      "filename": "CSA.md",
+      "source_repo": "https://github.com/CommonPaper/CSA"
+    },
+    {
+      "name": "Data Processing Agreement (DPA)",
+      "description": "Common Paper Data Processing Agreement — terms covering the processing of personal data on behalf of a customer in compliance with applicable data protection laws such as GDPR and CCPA.",
+      "filename": "DPA.md",
+      "source_repo": "https://github.com/CommonPaper/DPA"
+    },
+    {
+      "name": "Mutual Non-Disclosure Agreement — Cover Page",
+      "description": "Common Paper Mutual NDA Cover Page — fillable cover page that the parties complete and sign to incorporate the MNDA Standard Terms.",
+      "filename": "Mutual-NDA-coverpage.md",
+      "source_repo": "https://github.com/CommonPaper/Mutual-NDA"
+    },
+    {
+      "name": "Mutual Non-Disclosure Agreement — Standard Terms",
+      "description": "Common Paper standard Mutual Non-Disclosure Agreement — reciprocal confidentiality obligations between two parties exchanging confidential information.",
+      "filename": "Mutual-NDA.md",
+      "source_repo": "https://github.com/CommonPaper/Mutual-NDA"
+    },
+    {
+      "name": "Partnership Agreement",
+      "description": "Common Paper standard Partnership Agreement — terms governing a business or referral partnership between two companies.",
+      "filename": "Partnership-Agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Partnership-Agreement"
+    },
+    {
+      "name": "Pilot Agreement",
+      "description": "Common Paper standard Pilot Agreement — terms for a short, limited trial of a product or service between a vendor and a prospective customer.",
+      "filename": "Pilot-Agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Pilot-Agreement"
+    },
+    {
+      "name": "Service Level Agreement (SLA)",
+      "description": "Common Paper Service Level Agreement — service availability commitments, support response times, and credits or remedies for cloud-delivered services.",
+      "filename": "sla.md",
+      "source_repo": "https://github.com/CommonPaper/SLA"
+    },
+    {
+      "name": "Software License Agreement",
+      "description": "Common Paper standard Software License Agreement — terms for licensing on-premises or downloadable software to a customer.",
+      "filename": "Software-License-Agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Software-License-Agreement"
+    },
+    {
+      "name": "Design Partner Agreement",
+      "description": "Common Paper standard Design Partner Agreement — terms for collaboration between a company and a customer who provides feedback to help shape an early-stage product.",
+      "filename": "design-partner-agreement.md",
+      "source_repo": "https://github.com/CommonPaper/Design-Partner-Agreement"
+    },
+    {
+      "name": "Professional Services Agreement (PSA)",
+      "description": "Common Paper standard Professional Services Agreement — terms governing the delivery of professional services such as consulting or implementation under one or more statements of work.",
+      "filename": "psa.md",
+      "source_repo": "https://github.com/CommonPaper/PSA"
+    }
+  ]
+}
